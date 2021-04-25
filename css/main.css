@@ -27,7 +27,15 @@ p {
 }
 
 /***HEADER***/
+h1 {
+  font-size: 30px;
+  line-height: 23px;
+  padding: 57px 0 57px 24px;
+}
 
+h1 span {
+  color: #77a466;
+}
 
 /***TOP SECTION***/
 
