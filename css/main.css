@@ -16,6 +16,7 @@ p {
 
 .half-width {
   width: 600px;
+  /* width: auto; */
   overflow: auto;
   float: left;
 }
@@ -30,11 +31,30 @@ p {
 h1 {
   font-size: 30px;
   line-height: 23px;
-  padding: 57px 0 57px 24px;
+  /* padding: 57px 0 57px 24px; */
+  padding: 57px 0;
 }
 
 h1 span {
   color: #77a466;
+}
+
+nav {
+  float: right;
+  padding: 64px 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 23px;
+  color: #77a466;
+  padding-left: 24px;
 }
 
 /***TOP SECTION***/
