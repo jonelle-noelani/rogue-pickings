@@ -58,6 +58,10 @@ nav ul li a {
 }
 
 /***TOP SECTION***/
+#top img {
+  background-color: #77a466;
+  padding: 3px 0;
+}
 
 /***BOTTOM SECTION***/
 
