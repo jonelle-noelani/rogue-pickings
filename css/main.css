@@ -5,6 +5,7 @@ body {
 
 p {
   font-family: montserrat;
+  font-size: 16pt;
 }
 
 /***GRID***/
@@ -67,6 +68,10 @@ h2 {
   font-size: 18px;
   line-height: 23px;
   color: #77a466;
+}
+
+#top p {
+  line-height: 25pt;
 }
 
 /***BOTTOM SECTION***/
