@@ -80,4 +80,9 @@ h3 {
   line-height: 25px;
 }
 
+#sec-one p {
+  line-height: 18px;
+  color:#77a466;
+}
+
 /***FOOTER***/
