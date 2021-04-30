@@ -4,8 +4,8 @@ body {
 }
 
 p {
-  font-family: montserrat;
-  font-size: 16pt;
+  /* font-family: montserrat; */
+  font-size: 16px;
 }
 
 /***GRID***/
@@ -71,9 +71,13 @@ h2 {
 }
 
 #top p {
-  line-height: 25pt;
+  line-height: 25px;
 }
 
 /***BOTTOM SECTION***/
+h3 {
+  font-size: 12px;
+  line-height: 25px;
+}
 
 /***FOOTER***/
