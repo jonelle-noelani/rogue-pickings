@@ -85,4 +85,12 @@ h3 {
   color:#77a466;
 }
 
+#sec-two p {
+  line-height: 21px;
+}
+
+#sec-three p {
+  line-height: 24px;
+}
+
 /***FOOTER***/
