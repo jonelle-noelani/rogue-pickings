@@ -94,3 +94,14 @@ h3 {
 }
 
 /***FOOTER***/
+footer p {
+  font-weight: bold;
+  line-height: 23px;
+  text-align: center;
+}
+
+footer span {
+  font-family: 'Galada';
+  font-weight: normal;
+  color:#77a466;
+}
