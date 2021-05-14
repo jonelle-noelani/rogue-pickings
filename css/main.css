@@ -75,6 +75,11 @@ h2 {
 }
 
 /***BOTTOM SECTION***/
+#bottom .full-width{
+  border-top: solid 1px lightgray;
+  border-bottom: solid 1px lightgray;;
+}
+
 h3 {
   font-size: 12px;
   line-height: 25px;
