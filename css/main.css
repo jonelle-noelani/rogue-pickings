@@ -23,7 +23,7 @@ p {
 }
 
 .third-width {
-  width: 400px;
+  width: 398px;
   overflow: auto;
   float: left;
 }
@@ -77,7 +77,7 @@ h2 {
 /***BOTTOM SECTION***/
 #bottom .full-width{
   border-top: solid 1px lightgray;
-  border-bottom: solid 1px lightgray;;
+  border-bottom: solid 1px lightgray;
 }
 
 h3 {
@@ -88,6 +88,11 @@ h3 {
 #sec-one p {
   line-height: 18px;
   color:#77a466;
+}
+
+#sec-two {
+  border-left: solid 1px lightgray;
+  border-right: solid 1px lightgray;
 }
 
 #sec-two p {
