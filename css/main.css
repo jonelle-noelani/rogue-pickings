@@ -102,6 +102,10 @@ h3 {
   line-height: 21px;
 }
 
+#sec-three {
+  padding: 0px 30px;
+}
+
 #sec-three p {
   line-height: 24px;
 }
